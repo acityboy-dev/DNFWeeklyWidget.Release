@@ -1,6 +1,6 @@
 {
-  "version": "0.1.5",
-  "packageUrl": "https://github.com/acityboy-dev/DNFWeeklyWidget.Release/releases/download/v0.1.4/DNFWeeklyWidget-0.1.4-win-x64.zip",
-  "sha256": "BD862C87E8562BC91789332144887DA7069A73ECD3417461FEBA5CBE43861539",
+  "version": "1.0.1",
+  "packageUrl": "https://github.com/acityboy-dev/DNFWeeklyWidget.Release/releases/download/v1.0.0/DNFWeeklyWidget-1.0.0-win-x64.zip",
+  "sha256": "3C8A404F3E959B02545D3DED89759D255D9DD9E23647780F8A38D1FB86871729",
   "executable": "DNFWeeklyWidget.exe"
 }
