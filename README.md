@@ -1,0 +1,2 @@
+# DNFWeeklyWidget.Release
+Release build
