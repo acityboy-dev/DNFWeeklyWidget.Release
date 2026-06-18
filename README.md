@@ -66,7 +66,7 @@ ZIP 파일을 원하는 폴더에 압축 해제한 뒤 `DNFWeeklyWidget.exe`를 
 %AppData%\DNFWeeklyWidget\ImageCache
 ```
 
-주의: API Key는 현재 설정 파일에 평문으로 저장됩니다. `settings.json`을 공개 저장소나 스크린샷에 노출하지 마세요.
+API Key는 Windows 사용자 계정에 연결된 암호화 방식으로 설정 파일에 저장됩니다. 다른 Windows 사용자 계정에서는 복호화할 수 없습니다.
 
 ## 참고
 
